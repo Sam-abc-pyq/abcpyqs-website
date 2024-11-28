@@ -19,6 +19,7 @@ body {
     animation: auroraGlow 20s ease-in-out infinite;
 }
 
+/* This website has been made by HY & team */
 @keyframes auroraGlow  {
     0% { background-position: 0% 50%; }
     50% { background-position: 100% 50%; }
