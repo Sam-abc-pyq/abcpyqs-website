@@ -1,6 +1,6 @@
 // Questions Data by Year and Subject
 const data = {
-    "First Year": {
+    "First Year": { // This website has been made by HY & team
         2020: [
             { subject: 'Mathematics 1', pdf: 'PDF Folder/2020/1/Maths1.pdf' },
             { subject: 'PPS', pdf: 'PDF Folder/2020/1/PPS.pdf' },
